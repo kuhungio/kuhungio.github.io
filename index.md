@@ -1,40 +1,39 @@
-## Welcome to GitHub Pages
+## 简介
 
-You can use the [editor on GitHub](https://github.com/kuhungio/kuhungio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- 笔名：谷粒 kuhung
+- 毕业院校：华中科技大学 机械学院 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 过往成果
+| 时间 | 平台 | 项目 | 名次 |
+| ------ | ------ | ------ | ------ |
+| 2018-08 | 第七届全国媒体技术处理大会 | 文本溯源技术测评 | [5/95](http://smp2018.cips-smp.org/rewards.html) |
+| 2017-06 | Kaggle | Intel&MobileODTCervicalCancerScreening  | top10% |
+| 2017-02 | DataCastle | 精准资助预测赛 | 7/124 |
+| 2016-12 | 2016 BYTE CUP | 国际机器学习竞赛 | 8/1029 |
+| 2016-10 |  第五届全国社会媒体处理大会 | 用户画像技术测评 | 5/373 |
 
-### Markdown
+## 工作经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 2018.07~至今 网易游戏[数据挖掘工程师](https://kuhungio.me/2019/what-is-data-mining/)
+- 2017.07~2017.09 微众银行数据科学实习生
+- 2017.03~2017.06 武汉安天数据挖掘实习生
 
-```markdown
-Syntax highlighted code block
+## 工作方向
 
-# Header 1
-## Header 2
-### Header 3
+数据挖掘工程师，机器学习方向。从事数据平台建设和机器学习应用项目开发。
 
-- Bulleted
-- List
+## 兴趣方向
 
-1. Numbered
-2. List
+- 机器学习前后端及交付落地所涉及技术：Docker、AutoML 、数据可视化等。
+- 泛领域学界研究及工程化进展：包括机器视觉、自然语言处理、计算广告等。
+- 其它兴趣爱好：经济学社会学读物、写作分享...
 
-**Bold** and _Italic_ and `Code` text
+## 社交平台
+微信公众号、头条、知乎搜索【谷粒先生】
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuhungio/kuhungio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 个人网站
+https://kuhungio.me/
 
 ---
 
