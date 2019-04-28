@@ -38,8 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ---
 
-<a align="center" href="http://www.miitbeian.gov.cn/">鄂ICP备18003074号-1</a>
 
 <div align="center">
-  This is some text!
+<a href="http://www.miitbeian.gov.cn/">鄂ICP备18003074号-1</a>
 </div>
